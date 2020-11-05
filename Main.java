@@ -12,7 +12,7 @@ class Main {
   for(int i = 0; i < 7; i++){ 
     System.out.println( "The update is " + carBrands[i]);
   }
-  }
+  } 
 }
 
      
